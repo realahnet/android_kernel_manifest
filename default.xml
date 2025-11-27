@@ -15,7 +15,7 @@
   <project path="prebuilts/kernel-build-tools" name="kernel/prebuilts/build-tools" clone-depth="1" />
 
   <!-- Edo Kernel -->
-  <project path="kernel/msm-4.19" name="realahnet/kernel_sony_sm8250" remote="github" revision="sixteen" >
+  <project path="kernel/msm-4.19" name="realahnet/kernel_sony_sm8250" remote="github" revision="sixteen-ksu" >
   </project>
 
   <!-- Eva GCC -->
